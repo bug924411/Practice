@@ -1,0 +1,23 @@
+---
+title: "Practice"
+output: 
+  html_document: 
+    theme: cosmo
+    toc: yes
+editor_options: 
+  chunk_output_type: console
+---
+
+
+## Load Libraries
+
+```{r , loading libraries}
+
+library(ggplot2)
+library(dplyr)
+
+
+```
+
+
+## 

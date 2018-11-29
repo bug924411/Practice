@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543511048695.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FAB7F659",
+    "lastKnownWriteTime" : 1543511860,
+    "last_content_update" : 1543511907524,
+    "path" : "~/Desktop/Practice/Practice.Rmd",
+    "project_path" : "Practice.Rmd",
+    "properties" : {
+        "chunk_output_type" : "console",
+        "cursorPosition" : "22,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
